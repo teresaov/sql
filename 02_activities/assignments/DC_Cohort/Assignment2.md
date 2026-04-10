@@ -56,7 +56,7 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 **HINT:** search type 1 vs type 2 slowly changing dimensions. 
 
 ```
-Your answer...
+Retain changes: make a new category for changed addresses (therefore keeping the old address as well), overwrite address: change original category when an address is updated.
 ```
 
 ***
