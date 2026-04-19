@@ -123,7 +123,7 @@ Steps to complete this part of the assignment:
 1. Write a query that returns everything in the customer table.
 2. Write a query that displays all of the columns and 10 rows from the customer table, sorted by customer_last_name, then customer_first_ name.
 
-<div align="center">-</div>
+SEE ATTACHMENT!
 
 #### WHERE
 1. Write a query that returns all customer purchases of product IDs 4 and 9. Limit to 25 rows of output.
